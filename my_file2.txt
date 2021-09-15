@@ -1,2 +1,3 @@
 file 2
 first change after the first commit
+one change of another_feature
