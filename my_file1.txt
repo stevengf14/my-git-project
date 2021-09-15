@@ -1,3 +1,4 @@
 file 1
 first change after the first commit
-on change for new_features
+one change for new_feature
+other change for new_feature
