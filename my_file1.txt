@@ -2,3 +2,8 @@ file 1
 first change after the first commit
 one change for new_feature
 other change for new_feature
+
+This change is to write about music module:
+- The module will have a reproductor
+- The module will have a search
+- The module will have a gallery
