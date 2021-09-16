@@ -1,7 +1,7 @@
 file 1
 first change after the first commit
 one change for new_feature
-other change for new_feature
+This file is just to Music Module
 
 This change is to write about init page:
 - The page will have a menu
